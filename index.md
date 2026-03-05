@@ -1,6 +1,10 @@
 # Elizabeth Elizondo
 ### Data Engineer | Business Systems Analyst
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+
 Welcome to my data portfolio.
 
 This site showcases projects involving:
